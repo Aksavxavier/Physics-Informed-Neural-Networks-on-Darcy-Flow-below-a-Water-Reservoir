@@ -1,6 +1,6 @@
 Physics-Informed Neural Networks for Darcy Flow Below a Water Reservoir
 
-This repository contains a Physics-Informed Neural Network (PINN) implementation to estimate water pressure distribution and Darcy velocity in a porous medium located beneath a dam reservoir. The project is part of the ENHANCE BIP summer school task (July 2022).
+This repository contains a Physics-Informed Neural Network (PINN) implementation to estimate water pressure distribution and Darcy velocity in a porous medium located beneath a dam reservoir. 
 
 Objective
 
